@@ -1,3 +1,7 @@
+ ---
+ layout: wide_default
+ ---   
+
 ```python
 import glob
 import os
