@@ -4,10 +4,6 @@ My name is Chase Carlson. This is my personal website to showcase some of my pro
 
 <!-- Upload your own photo and change the path -->
 
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/documents/chase_pic.jpeg" width="50%">
-</p>
-
 ---
 
 ## Portfolio
