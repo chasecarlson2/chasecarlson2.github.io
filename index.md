@@ -26,7 +26,7 @@ _**[Regression Practice](Regression_practice)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
-_**[Python Download Folder](download_text_files)
+_**[Python Download Folder](download_text_files)**_
 
 ---
 
