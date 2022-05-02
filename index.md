@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Chase Carlson. This is my personal website to showcase some of my projects.
+We are Cole and Friendz. This is our project website to showcase our Fin377 Final Project!
 
 <!-- Upload your own photo and change the path -->
 
